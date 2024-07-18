@@ -37,6 +37,4 @@ This project demonstrates a Single Sign-On (SSO) screen design implemented in Py
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-## License
 
-This project is licensed under the MIT License.
